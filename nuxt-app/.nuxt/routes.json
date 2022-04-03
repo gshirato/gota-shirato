@@ -1,0 +1,23 @@
+[
+  {
+    "name": "me",
+    "path": "/me",
+    "component": "/workspaces/gota-shirato/nuxt-app/pages/me.vue",
+    "chunkName": "pages/me",
+    "_name": "_4b9cef7c"
+  },
+  {
+    "name": "topic",
+    "path": "/topic",
+    "component": "/workspaces/gota-shirato/nuxt-app/pages/topic.vue",
+    "chunkName": "pages/topic",
+    "_name": "_12e1aaf5"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspaces/gota-shirato/nuxt-app/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_68cd05d0"
+  }
+]
